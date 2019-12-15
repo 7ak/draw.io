@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-12-15T13:33:47.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="hLTyI2C3egt4phAgv2dQ" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T13:37:13.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="RRQjjctR3jm_gHGrEjrS" version="12.4.2" type="github" pages="1">
   <diagram id="z3zxhixVunEiOS99RGhy" name="Page-1">
     <mxGraphModel dx="1261" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="_c7zvPGTftnyquFCX0OO-1" value="NIA &lt;br&gt;assets" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=#ffffff;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="558" height="720" as="geometry"/>
+          <mxGeometry x="80" y="250" width="558" height="710" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-27" value="&lt;b style=&quot;font-size: 18px&quot;&gt;DMZ network&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=-60;fontSize=18;spacingLeft=50;" vertex="1" parent="1">
           <mxGeometry x="55" y="619" width="583" height="320" as="geometry"/>
@@ -17,16 +17,15 @@
           <mxGeometry x="62" y="47" width="510" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-3" value="Tranwall&lt;br&gt;assets" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=#ffffff;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="240" width="640" height="785" as="geometry"/>
+          <mxGeometry x="950" y="250" width="230" height="710" as="geometry"/>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;fontSize=18;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-13" target="_c7zvPGTftnyquFCX0OO-48">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="_c7zvPGTftnyquFCX0OO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;fontSize=18;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-13" target="_c7zvPGTftnyquFCX0OO-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="440" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-13" value="NIA users" style="verticalLabelPosition=bottom;html=1;fillColor=#0000CC;verticalAlign=top;pointerEvents=1;align=center;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.5,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.5,0],[0.125,0.25,0],[0.125,0.75,0],[0.875,0.25,0],[0.875,0.75,0]];shape=mxgraph.cisco_safe.design.users;aspect=fixed;dashed=0;fontColor=#232F3E;fontStyle=0;strokeColor=#ffffff;gradientColor=#FF6666;gradientDirection=north;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="880" y="400" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-48" value="NIA users" style="verticalLabelPosition=bottom;html=1;fillColor=#0000CC;verticalAlign=top;pointerEvents=1;align=center;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.5,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.5,0],[0.125,0.25,0],[0.125,0.75,0],[0.875,0.25,0],[0.875,0.75,0]];shape=mxgraph.cisco_safe.design.users;aspect=fixed;dashed=0;fontColor=#232F3E;fontStyle=0;strokeColor=#ffffff;gradientColor=#FF6666;gradientDirection=north;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="400" width="80" height="80" as="geometry"/>
+          <mxGeometry x="750" y="499" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=openThin;startFill=0;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-15" target="_c7zvPGTftnyquFCX0OO-35">
           <mxGeometry relative="1" as="geometry">
@@ -75,23 +74,20 @@
             <mxPoint x="1170" y="671.6500000000003" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;fontSize=18;entryX=0.825;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-32" target="_c7zvPGTftnyquFCX0OO-45">
+        <mxCell id="_c7zvPGTftnyquFCX0OO-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;fontSize=18;entryX=0.5;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-32" target="_c7zvPGTftnyquFCX0OO-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="658.3400000000001" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="1420" y="779"/>
-              <mxPoint x="1420" y="539"/>
-            </Array>
+            <mxPoint x="1070" y="658.3400000000001" as="targetPoint"/>
+            <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-32" value="VPN" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#660000;gradientColor=#000000;fontColor=#232F3E;fontStyle=0;strokeColor=#E6E6E6;gradientDirection=north;labelBackgroundColor=none;shadow=0;spacing=2;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="738.34" width="80" height="80" as="geometry"/>
+          <mxGeometry x="1030" y="738.34" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-35" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#CCCCCC;gradientColor=#999999;fontSize=12;fontColor=#232F3E;fontStyle=1;strokeColor=#ffffff;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="850" y="699.34" width="160" height="160" as="geometry"/>
+          <mxGeometry x="710" y="698.34" width="160" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-45" value="Tranwall&amp;nbsp;&lt;br&gt;monitoring server&lt;br&gt;Zabbix WEB-UI" style="html=1;fillColor=#660000;strokeColor=#E6E6E6;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=0;fontSize=12;fontStyle=0;fontColor=#232F3E;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager;aspect=fixed;shadow=0;dashed=0;gradientColor=#000000;gradientDirection=north;spacing=-18;" vertex="1" parent="1">
-          <mxGeometry x="1253.05" y="480" width="133.9" height="118.69" as="geometry"/>
+        <mxCell id="_c7zvPGTftnyquFCX0OO-45" value="Tranwall&amp;nbsp;&lt;br&gt;monitoring server&lt;br&gt;Zabbix WEB-UI" style="html=1;fillColor=#660000;strokeColor=#E6E6E6;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;spacingTop=0;fontSize=12;fontStyle=0;fontColor=#232F3E;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager;aspect=fixed;shadow=0;dashed=0;gradientColor=#000000;gradientDirection=north;spacing=-15;" vertex="1" parent="1">
+          <mxGeometry x="1003.05" y="480" width="133.9" height="118.69" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
