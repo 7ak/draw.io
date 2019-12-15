@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-15T13:54:01.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="YrRvePRNEQXCO_S3-766" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T14:21:19.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="UyDROo0cDuZe-b5wBPL3" version="12.4.2" type="github" pages="1">
   <diagram id="z3zxhixVunEiOS99RGhy" name="Page-1">
-    <mxGraphModel dx="1261" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
         <mxCell id="_c7zvPGTftnyquFCX0OO-3" value="Tranwall&lt;br&gt;assets" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=#ffffff;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="250" width="230" height="710" as="geometry"/>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;fontSize=18;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-13" target="_c7zvPGTftnyquFCX0OO-45">
+        <mxCell id="_c7zvPGTftnyquFCX0OO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=18;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_c7zvPGTftnyquFCX0OO-13" target="_c7zvPGTftnyquFCX0OO-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="440" as="targetPoint"/>
           </mxGeometry>
@@ -134,13 +134,13 @@
         <mxCell id="_c7zvPGTftnyquFCX0OO-67" value="Only outgoing connections to #3 (TCP:10051)" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1385" y="374.5" width="450" height="115" as="geometry"/>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-68" value="Full access from Tranwall VPN network&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_c7zvPGTftnyquFCX0OO-68" value="Full access from #5 (by Tranwall VPN network)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1385" y="492.5" width="450" height="117" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-69" value="VPN termination on NIA side" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1385" y="608.5" width="450" height="121" as="geometry"/>
         </mxCell>
-        <mxCell id="_c7zvPGTftnyquFCX0OO-70" value="Zabbix WEB-UI access from internet for NIA users. Full acces to #3 at NIA." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_c7zvPGTftnyquFCX0OO-70" value="Zabbix WEB-UI access from internet for NIA users. &lt;br&gt;Full acces to #3 at NIA." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1386" y="725.5" width="449" height="114" as="geometry"/>
         </mxCell>
         <mxCell id="_c7zvPGTftnyquFCX0OO-73" value="VPN termination on NIA side" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
