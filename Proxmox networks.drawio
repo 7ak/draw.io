@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T10:56:32.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="12.9.7" etag="mflQdLl6cc8nxQT7u4HQ" type="github"><diagram id="0o_vhkstpCKI-f3dBshT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-21T10:46:21.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="Ow7lctWM179Fd1uQY0LA" version="12.9.14" type="github">
+  <diagram id="0o_vhkstpCKI-f3dBshT" name="Page-1">
+    <mxGraphModel dx="1369" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="400" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#999999;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-5">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-1" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-5">
+          <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-6" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="400" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#999999;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-8" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="400" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#999999;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-11" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
