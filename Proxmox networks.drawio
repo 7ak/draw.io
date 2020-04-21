@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T10:46:21.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="Ow7lctWM179Fd1uQY0LA" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-21T11:15:27.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="MjLXPOkswOVYV3tvzGmq" version="12.9.14" type="github">
   <diagram id="0o_vhkstpCKI-f3dBshT" name="Page-1">
-    <mxGraphModel dx="1369" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,6 +13,9 @@
         <mxCell id="f9LvFph6c_8vfK9_kLuQ-1" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-5">
           <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
         </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-47" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=secure_router;fillColor=#FAFAFA;strokeColor=#333333;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-5">
+          <mxGeometry x="150" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="f9LvFph6c_8vfK9_kLuQ-6" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="400" width="240" height="270" as="geometry" />
         </mxCell>
@@ -22,6 +25,36 @@
         <mxCell id="f9LvFph6c_8vfK9_kLuQ-8" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
           <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
         </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-28" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.663;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.33000000000015" y="240.72000000000003" as="targetPoint" />
+            <mxPoint x="239.33000000000015" y="314" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-29" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.1300000000001" y="240" as="targetPoint" />
+            <mxPoint x="220.21000000000004" y="334" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-30" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.21000000000004" y="240" as="targetPoint" />
+            <mxPoint x="200.21000000000004" y="354" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-31" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180.21000000000004" y="240" as="targetPoint" />
+            <mxPoint x="180.21000000000004" y="374" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-32" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.21000000000004" y="241" as="targetPoint" />
+            <mxPoint x="160.21000000000004" y="394" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f9LvFph6c_8vfK9_kLuQ-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760" y="400" width="240" height="270" as="geometry" />
         </mxCell>
@@ -30,6 +63,81 @@
         </mxCell>
         <mxCell id="f9LvFph6c_8vfK9_kLuQ-11" value="Proxmox cluster node 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png;labelPosition=right;align=left;fontSize=10;" vertex="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
           <mxGeometry width="16.216216216216218" height="16.216216216216218" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-42" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.663;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79.12000000000012" y="240.72000000000003" as="targetPoint" />
+            <mxPoint x="79.12000000000012" y="314" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-43" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.9200000000003" y="240" as="targetPoint" />
+            <mxPoint x="59.99999999999977" y="334" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-44" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39.99999999999977" y="240" as="targetPoint" />
+            <mxPoint x="39.99999999999977" y="354.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-45" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="19.999999999999773" y="240" as="targetPoint" />
+            <mxPoint x="19.999999999999773" y="374.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-46" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;" edge="1" parent="f9LvFph6c_8vfK9_kLuQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2.2737367544323206e-13" y="241" as="targetPoint" />
+            <mxPoint x="-2.2737367544323206e-13" y="394.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-13" value="&lt;p style=&quot;line-height: 190%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;VLAN4090, 10.222.209.0/24: proxmox services interconnect&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#333333;spacingTop=0;verticalAlign=bottom;spacing=0;labelBackgroundColor=none;align=center;labelPosition=center;verticalLabelPosition=top;spacingBottom=-18;spacingRight=290;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-14" value="&lt;p style=&quot;line-height: 190%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;VLAN4011, 10.222.11.0/24: 1st production net&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#333333;spacingTop=0;verticalAlign=bottom;spacing=0;labelBackgroundColor=none;align=center;labelPosition=center;verticalLabelPosition=top;spacingBottom=-18;spacingRight=365;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-15" value="&lt;p style=&quot;line-height: 190%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;VLAN4002, 10.222.2.0/24: 2nd test only net&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#333333;spacingTop=0;verticalAlign=bottom;spacing=0;labelBackgroundColor=none;align=center;labelPosition=center;verticalLabelPosition=top;spacingBottom=-18;spacingRight=378;" vertex="1" parent="1">
+          <mxGeometry x="80" y="750" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-16" value="&lt;p style=&quot;line-height: 190%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;VLAN4000, 10.222.208.0/24: proxmox cluster interconnect&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#333333;spacingTop=0;verticalAlign=bottom;spacing=0;labelBackgroundColor=none;align=center;labelPosition=center;verticalLabelPosition=top;spacingBottom=-18;spacingRight=300;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-17" value="&lt;p style=&quot;line-height: 190%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;VLAN4010, 10.222.1.0/24: 1st test and stage net&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#333333;spacingTop=0;verticalAlign=bottom;spacing=0;labelBackgroundColor=none;align=center;labelPosition=center;verticalLabelPosition=top;spacingBottom=-18;spacingRight=352;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-18" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;" edge="1" parent="1" source="f9LvFph6c_8vfK9_kLuQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="641" as="targetPoint" />
+            <mxPoint x="210" y="804" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-19" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f9LvFph6c_8vfK9_kLuQ-16" target="f9LvFph6c_8vfK9_kLuQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="650" as="targetPoint" />
+            <mxPoint x="260" y="734" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-20" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.165;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f9LvFph6c_8vfK9_kLuQ-15" target="f9LvFph6c_8vfK9_kLuQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="640" as="targetPoint" />
+            <mxPoint x="278" y="724" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-21" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0.085;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f9LvFph6c_8vfK9_kLuQ-14" target="f9LvFph6c_8vfK9_kLuQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="650" as="targetPoint" />
+            <mxPoint x="265" y="764" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9LvFph6c_8vfK9_kLuQ-22" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeWidth=1;fontColor=#000000;fontSize=12;verticalAlign=top;strokeColor=#000000;fillColor=#ffffff;spacingTop=4;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f9LvFph6c_8vfK9_kLuQ-13" target="f9LvFph6c_8vfK9_kLuQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="641" as="targetPoint" />
+            <mxPoint x="250" y="784" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
