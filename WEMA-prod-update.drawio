@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-14T06:35:58.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="KwFjKwuQUf7gUKfWG1gm" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-14T06:36:39.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="maHcJXwUvcv-N5qpZRNP" version="13.1.0" type="github">
   <diagram id="IBaJy11QaVMjjwJFgBuy" name="Page-1">
     <mxGraphModel dx="1294" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="nzf0ck4mSkzZNCcZiq0Q-46" value="WEMA&lt;br&gt;assets" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=#ffffff;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="159" width="480" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="nzf0ck4mSkzZNCcZiq0Q-2" value="Tranwall application update plan overview &lt;br&gt;for WEMA of Nigeria Ltd&lt;div style=&quot;font-size: 36px&quot;&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="nzf0ck4mSkzZNCcZiq0Q-2" value="Tranwall application update plan overview &lt;br&gt;for WEMA Bank&lt;div style=&quot;font-size: 36px&quot;&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="740" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nzf0ck4mSkzZNCcZiq0Q-4" value="" style="whiteSpace=wrap;html=1;dashed=0;fontColor=#AAB7B8;fontStyle=0;align=left;verticalAlign=top;strokeColor=#000000;fillColor=none;gradientColor=none;spacingLeft=30;aspect=fixed;" parent="1" vertex="1">
