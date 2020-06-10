@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T10:22:18.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="jJDMRjNiV_yB32Qe6e86" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-10T12:02:45.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="LudGgoljnO2CsFJgdz7t" version="13.2.1" type="github">
   <diagram id="IBaJy11QaVMjjwJFgBuy" name="Page-1">
     <mxGraphModel dx="1179" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nzf0ck4mSkzZNCcZiq0Q-2" value="Tranwall application update plan overview for&lt;br&gt;the First Bank of Nigeria Ltd&lt;div style=&quot;font-size: 36px&quot;&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="50" y="40" width="790" height="90" as="geometry" />
+        <mxCell id="nzf0ck4mSkzZNCcZiq0Q-2" value="Tranwall application update plan overview for&lt;br style=&quot;font-size: 32px;&quot;&gt;the First Bank of Nigeria Ltd&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=32;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="710" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MvjQQhtj9anRVqAf9XqP-1" value="FBN&lt;br&gt;assets" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=#ffffff;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="159" width="490" height="580" as="geometry" />
