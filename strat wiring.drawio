@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T02:38:17.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_i5KYcI539k6eJn-Gwox" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T02:49:49.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g2NTon29t_6_4DMUj7el" version="15.5.2" type="github">
   <diagram id="bpvqkjl4aAlvQeULc8f-" name="Page-1">
     <mxGraphModel dx="1550" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -614,34 +614,43 @@
             <mxPoint x="1140" y="-600" as="sourcePoint" />
             <mxPoint x="1550" y="-600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1140" y="-470" />
-              <mxPoint x="1550" y="-470" />
+              <mxPoint x="1140" y="-500" />
+              <mxPoint x="1550" y="-500" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RauLzc8qqApyDC3I54p1-19" value="Jack +" style="endArrow=openThin;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#009999;verticalAlign=top;spacing=18;endFill=0;" edge="1" parent="1">
+        <mxCell id="RauLzc8qqApyDC3I54p1-19" value="Jack +" style="endArrow=openThin;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#009999;verticalAlign=top;spacing=82;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1168" y="-600" as="sourcePoint" />
-            <mxPoint x="1168" y="-560" as="targetPoint" />
+            <mxPoint x="1168" y="-460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RauLzc8qqApyDC3I54p1-20" value="" style="endArrow=none;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;startArrow=circlePlus;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="51kKJXi9qUbgjsaaFKMb-110">
+        <mxCell id="RauLzc8qqApyDC3I54p1-20" value="" style="endArrow=none;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;startArrow=circlePlus;startFill=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0;exitDx=0;exitDy=20.5;exitPerimeter=0;" edge="1" parent="1" source="51kKJXi9qUbgjsaaFKMb-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="-563" as="sourcePoint" />
             <mxPoint x="1200" y="-603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1128" y="-660" />
+              <mxPoint x="1230" y="-660" />
+              <mxPoint x="1230" y="-600" />
+              <mxPoint x="1200" y="-600" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RauLzc8qqApyDC3I54p1-21" value="0.022uF" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_3;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="RauLzc8qqApyDC3I54p1-21" value="0.022uF" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_3;fillColor=#FFCCCC;strokeWidth=2;labelBackgroundColor=default;textOpacity=90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="-614" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RauLzc8qqApyDC3I54p1-22" value="0.0022uF" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_3;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="-550" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RauLzc8qqApyDC3I54p1-23" value="" style="endArrow=none;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;startArrow=circlePlus;startFill=0;exitX=0.714;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="51kKJXi9qUbgjsaaFKMb-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1405" y="-669" as="sourcePoint" />
             <mxPoint x="1437.5" y="-598" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RauLzc8qqApyDC3I54p1-22" value="0.0022uF" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_3;fillColor=#FFCCCC;strokeWidth=2;labelBackgroundColor=default;textOpacity=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1511" y="-615" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RauLzc8qqApyDC3I54p1-40" value="561pF&lt;br&gt;150KΩ" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_3;fillColor=#FFCCCC;strokeWidth=2;labelBackgroundColor=default;textOpacity=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-616" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
