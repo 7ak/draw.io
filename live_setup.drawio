@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vIAE8iJ6YO5WJpQXjiLI">
-    <mxGraphModel dx="1369" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             <mxPoint x="278.68" y="294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-42" connectable="0" parent="e7GVWVK7uCOrqfItLySG-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="TR&lt;br&gt;1/4&quot;" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-42" connectable="0" parent="e7GVWVK7uCOrqfItLySG-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=light-dark(#000000,#FF8000);" value="TR&lt;br&gt;1/4&quot;" vertex="1">
           <mxGeometry relative="1" x="-0.1396" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="525.34" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-44" connectable="0" parent="e7GVWVK7uCOrqfItLySG-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="BTrack&lt;br&gt;11/12 R&lt;div&gt;TR&lt;br&gt;OTPUT R&lt;/div&gt;" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-44" connectable="0" parent="e7GVWVK7uCOrqfItLySG-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=light-dark(#000000,#FF8000);" value="BTrack&lt;br&gt;11/12 R&lt;div&gt;TR&lt;br&gt;OTPUT R&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2889" as="geometry">
             <mxPoint x="-3" y="17" as="offset" />
           </mxGeometry>
@@ -82,7 +82,7 @@
             <mxPoint x="505.91053999999986" y="259.1963800000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-55" connectable="0" parent="e7GVWVK7uCOrqfItLySG-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="XLR" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-55" connectable="0" parent="e7GVWVK7uCOrqfItLySG-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF8000);" value="XLR" vertex="1">
           <mxGeometry relative="1" x="-0.4861" y="2" as="geometry">
             <mxPoint x="-2" y="14" as="offset" />
           </mxGeometry>
@@ -107,7 +107,7 @@
             <mxPoint x="576" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-65" connectable="0" parent="e7GVWVK7uCOrqfItLySG-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Click&lt;br&gt;TRS 1/8&quot; &lt;br&gt;PHONES" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-65" connectable="0" parent="e7GVWVK7uCOrqfItLySG-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#00CCCC);" value="Click&lt;br&gt;TRS 1/8&quot; &lt;br&gt;PHONES" vertex="1">
           <mxGeometry relative="1" x="0.0543" y="5" as="geometry">
             <mxPoint x="-5" y="29" as="offset" />
           </mxGeometry>
@@ -121,7 +121,7 @@
             <mxPoint x="620.3399999999999" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-69" connectable="0" parent="e7GVWVK7uCOrqfItLySG-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BTrack&lt;br&gt;11/12 L&lt;div&gt;TR&lt;br&gt;OTPUT L&lt;/div&gt;" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-69" connectable="0" parent="e7GVWVK7uCOrqfItLySG-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF8000);" value="BTrack&lt;br&gt;11/12 L&lt;div&gt;TR&lt;br&gt;OTPUT L&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2876" as="geometry">
             <mxPoint x="-36" y="11" as="offset" />
           </mxGeometry>
@@ -135,7 +135,7 @@
             <mxPoint x="845" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-77" connectable="0" parent="e7GVWVK7uCOrqfItLySG-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Click&lt;br&gt;2-track R&lt;br&gt;&lt;div&gt;TR&lt;br&gt;OTPUT R&lt;/div&gt;" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-77" connectable="0" parent="e7GVWVK7uCOrqfItLySG-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#00CCCC);" value="Click&lt;br&gt;2-track R&lt;br&gt;&lt;div&gt;TR&lt;br&gt;OTPUT R&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2889" as="geometry">
             <mxPoint x="32" y="17" as="offset" />
           </mxGeometry>
@@ -146,7 +146,7 @@
             <mxPoint x="830" y="739" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-79" connectable="0" parent="e7GVWVK7uCOrqfItLySG-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Click&lt;br&gt;2-track L&lt;div&gt;TR&lt;br&gt;OTPUT/R&lt;/div&gt;" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-79" connectable="0" parent="e7GVWVK7uCOrqfItLySG-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=light-dark(#000000,#00CCCC);" value="Click&lt;br&gt;2-track L&lt;div&gt;TR&lt;br&gt;OTPUT/R&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2889" as="geometry">
             <mxPoint x="4" y="25" as="offset" />
           </mxGeometry>
