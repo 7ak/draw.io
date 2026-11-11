@@ -47,7 +47,7 @@
             <mxPoint x="570.3399999999999" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7GVWVK7uCOrqfItLySG-47" connectable="0" parent="e7GVWVK7uCOrqfItLySG-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="USB Mini to C&lt;br&gt;* MIDI in/out&lt;br&gt;* Guitar loop recording and playback&lt;br&gt;*Backing Track&lt;br&gt;*Click" vertex="1">
+        <mxCell id="e7GVWVK7uCOrqfItLySG-47" connectable="0" parent="e7GVWVK7uCOrqfItLySG-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="USB Mini to type-C&lt;br&gt;* MIDI in/out&lt;br&gt;* Guitar loop recording and playback&lt;br&gt;*Backing Track&lt;br&gt;*Click" vertex="1">
           <mxGeometry relative="1" x="-0.3891" y="-3" as="geometry">
             <mxPoint x="29" y="10" as="offset" />
           </mxGeometry>
